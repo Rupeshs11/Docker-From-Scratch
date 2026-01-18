@@ -12,13 +12,6 @@ working on Linux servers and development environments.
 
 ## 🛠️ Utility Commands Covered
 
----
-
-### 🔹 help  
-**Purpose:**  
-Used to check the syntax and available options for a command.
-
-```bash
 help
 📝 Explanation:
 This command provides quick help for shell built-in commands and is
