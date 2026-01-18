@@ -72,3 +72,13 @@ During troubleshooting
 In day-to-day development tasks
 
 To improve command-line productivity
+
+✅ Summary
+
+help provides command syntax and options
+
+which shows the executable path of a command
+
+uptime displays system running time and load
+
+alias creates shortcuts for long commands
