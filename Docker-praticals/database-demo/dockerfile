@@ -1,0 +1,9 @@
+FROM python:slim
+
+WORKDIR /app
+
+COPY app.py .
+
+RUN pip install mysql-connector-python
+
+CMD ["python","app.py"]
