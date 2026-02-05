@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Django
+db.sqlite3
+staticfiles/
+media/
+*.log
+
+# Environment
+.env.local
+.env.*.local
+venv/
+env/
+.venv/
+
+# Node/React (mynotes folder)
+mynotes/node_modules/
+mynotes/build/
+mynotes/.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Heroku (not needed for Docker)
+Procfile
